@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://example.com/">
+  <title>Random musings of a confused mind</title>
+  <subtitle></subtitle>
+  <link href="rss.xml" rel="self" />
+  <link href="https://example.com/" />
+  <updated>
+    2024-05-31T07:48:36Z
+  </updated>
+  <id>https://example.com/</id>
+  <author>
+    <name>kate</name>
+  </author>
+  <entry>
+    <title>Rain</title>
+    <link href="/rain/" />
+    <updated>2024-05-31T07:48:36Z</updated>
+    <id>/rain/</id>
+    <content xml:lang="" type="html">
+      <p>Rain falling. So soothing. Wishing you were lying beside me listening to the rain. Together.</p>
+
+    </content>
+  </entry>
+  <entry>
+    <title>About this blog</title>
+    <link href="/about/" />
+    <updated>2024-05-31T07:48:36Z</updated>
+    <id>/about/</id>
+    <content xml:lang="" type="html">
+      <p>Just a space for some random musings ...</p>
+
+    </content>
+  </entry>
+</feed>
+
